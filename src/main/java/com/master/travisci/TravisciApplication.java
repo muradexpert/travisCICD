@@ -8,6 +8,7 @@ public class TravisciApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(TravisciApplication.class, args);
+        System.out.println("Hello");
     }
 
 }
